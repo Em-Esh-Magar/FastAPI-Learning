@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 25,
+    "email": "john@example.com",
+    "city": "Kathmandu"
+  },
+  {
+    "id": 2,
+    "name": "Sara Smith",
+    "age": 28,
+    "email": "sara@example.com",
+    "city": "Pokhara"
+  },
+  {
+    "id": 3,
+    "name": "Michael Lee",
+    "age": 30,
+    "email": "michael@example.com",
+    "city": "Lalitpur"
+  },
+  {
+    "id": 4,
+    "name": "Anita Rai",
+    "age": 23,
+    "email": "anita@example.com",
+    "city": "Biratnagar"
+  },
+  {
+    "id": 5,
+    "name": "Ramesh Gurung",
+    "age": 27,
+    "email": "ramesh@example.com",
+    "city": "Butwal"
+  }
+]
